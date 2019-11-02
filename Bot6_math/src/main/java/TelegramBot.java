@@ -14,7 +14,7 @@ public class TelegramBot extends TelegramLongPollingBot {
 
     private static ChatBot chatBot;
     private String username="AEMathBot";
-    private String token="1012889099:AAH1Xjm_1e71hqwpSoUPvhscHrHvX-JRyjs";
+    private String token="***************************************";
 
     TelegramBot(){
         var tests = new ArrayList<Pair<String, Class<? extends IGame>>>();
